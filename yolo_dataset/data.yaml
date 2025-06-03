@@ -1,0 +1,7 @@
+names:
+- carro
+- moto
+nc: 2
+path: c:\Users\rogel\Documents\GitHub\Computer-Vision-Project\yolo_dataset
+train: images/train
+val: images/val
